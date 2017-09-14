@@ -7,8 +7,10 @@
 > the present is our past.**
 
 
-* Item 1 Kanye is conceited.
-* Item 2 Kanye is a spontanious artist.
+*  Kanye is conceited.
+*  Kanye is a spontanious artist.
+
+Imagine if Kanye West was the president.
 
 https://twitter.com/KanyeOfficiaI
 

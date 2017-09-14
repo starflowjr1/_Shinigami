@@ -7,8 +7,8 @@
 > the present is our past.**
 
 
-[x] Kanye is conceited.
-[x] Kanye is a spontanious artist.
+* Item 1 Kanye is conceited.
+* Item 2 Kanye is a spontanious artist.
 
 https://twitter.com/KanyeOfficiaI
 

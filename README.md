@@ -7,9 +7,8 @@
 > the present is our past.**
 
 
-[x] Kanye is conceited
-[x] Kanye is a decent artist
-[x] Kanye is a father
+[x] Kanye is conceited.
+[x] Kanye is a spontanious artist.
 
+https://twitter.com/KanyeOfficiaI
 
-http://www.github.com/
